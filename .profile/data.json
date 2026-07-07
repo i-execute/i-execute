@@ -1,0 +1,367 @@
+{
+ "key": "8199a7a7",
+ "stars": 28,
+ "contributions": 604,
+ "repos": 18,
+ "followers": 7,
+ "languages": [
+  [
+   "Python",
+   74454407
+  ],
+  [
+   "TypeScript",
+   14130375
+  ],
+  [
+   "JavaScript",
+   924978
+  ],
+  [
+   "TeX",
+   434491
+  ],
+  [
+   "HTML",
+   169721
+  ],
+  [
+   "BibTeX Style",
+   156480
+  ],
+  [
+   "Rust",
+   154515
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 19,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 30,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 19,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 2,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 29,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 16,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 19,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 20,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 15,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 36,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 28,
+    "day": 7,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 15,
+  "longest": 15
+ },
+ "pins": [
+  {
+   "name": "OBHOD",
+   "url": "https://github.com/i-execute/OBHOD",
+   "text": "Telegram bot for management Xray (vless) and VK Turn (WG) bypass",
+   "fork": false,
+   "stars": 5,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Modules",
+   "url": "https://github.com/i-execute/Modules",
+   "text": "For telegram userbots",
+   "fork": false,
+   "stars": 20,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Feroku",
+   "url": "https://github.com/i-execute/Feroku",
+   "text": "Heroku on telethon without backdoors and shitcode",
+   "fork": true,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Hotaru",
+   "url": "https://github.com/HotaruProject/Hotaru",
+   "text": "Security-first Telegram userbot built on GoyGram with Linux namespace isolation and capability sandboxing",
+   "fork": false,
+   "stars": 9,
+   "language": "Python",
+   "topics": [
+    "asyncio",
+    "docker",
+    "linux-namespaces",
+    "mtproto",
+    "privacy",
+    "python",
+    "sandbox",
+    "security",
+    "telegram",
+    "telegram-userbot"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "Modules",
+   "url": "https://github.com/i-execute/Modules",
+   "text": "For telegram userbots",
+   "fork": false,
+   "stars": 20,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "OBHOD",
+   "url": "https://github.com/i-execute/OBHOD",
+   "text": "Telegram bot for management Xray (vless) and VK Turn (WG) bypass",
+   "fork": false,
+   "stars": 5,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Qwerty",
+   "url": "https://github.com/i-execute/Qwerty",
+   "text": "Hermes Agent fork with Rich Messages and other improvements",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Feroku",
+   "url": "https://github.com/i-execute/Feroku",
+   "text": "Heroku on telethon without backdoors and shitcode",
+   "fork": true,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "free-turn-proxy",
+   "url": "https://github.com/i-execute/free-turn-proxy",
+   "text": "FreeTurn: core and server",
+   "fork": true,
+   "stars": 0,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "VTG",
+   "url": "https://github.com/i-execute/VTG",
+   "text": "Bridge between Telegram and VK",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Grabber",
+   "url": "https://github.com/i-execute/Grabber",
+   "text": "Universal media downloader powered by telegram bot",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "MoodleSolver",
+   "url": "https://github.com/i-execute/MoodleSolver",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Storage",
+   "url": "https://github.com/i-execute/Storage",
+   "text": "Using gh like hosting btw",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Veroku",
+   "url": "https://github.com/i-execute/Veroku",
+   "text": "VK userbot like Feroku",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "VKover",
+   "url": "https://github.com/i-execute/VKover",
+   "text": "Telethon like library but for VK",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "GoyGram",
+   "url": "https://github.com/i-execute/GoyGram",
+   "text": "Telegram framework: Bot API + MTProto in one Python runtime over a Rust crypto/codec core. Encrypted vault, zero-copy events, zero-cost abstractions.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "TL-tests",
+   "url": "https://github.com/i-execute/TL-tests",
+   "text": "Something like Agents.md but for any project in telegram",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Nous",
+   "url": "https://github.com/i-execute/Nous",
+   "text": "Telegram bot witch protect your group and channel",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "BNT",
+   "url": "https://github.com/i-execute/BNT",
+   "text": "Bot Net Tool but in Telegram",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Arena",
+   "url": "https://github.com/i-execute/Arena",
+   "text": "Open AI compatibility API for LMArena and more other",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Minegram",
+   "url": "https://github.com/i-execute/Minegram",
+   "text": "Powerful TG project for full control your Minecraft server",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "i-execute",
+   "url": "https://github.com/i-execute/i-execute",
+   "text": "About me",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
