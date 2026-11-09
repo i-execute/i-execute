@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "login": "i-execute",
+  "seed": "#5862C4",
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "stats",
+    "streak",
+    "projects"
+  ],
+  "hidden": [],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "",
+    "subtitle": "Python developer. Networking and Telegram internals.\nLow-level infra that has to just work.",
+    "typing": false,
+    "avatarShape": "pill",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Russia"
+      },
+      {
+        "icon": "code",
+        "label": "Python · JavaScript · TypeScript · Go · Bash"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "bolt",
+        "label": "Network stack: Xray, VLESS, WireGuard, TURN"
+      },
+      {
+        "icon": "terminal",
+        "label": "Userbots in messengers, MTProto and Bot API deep dives"
+      },
+      {
+        "icon": "deployed_code",
+        "label": "Bot API tooling: rich messages, inline flows"
+      },
+      {
+        "icon": "code",
+        "label": "Python mostly. Go and TS when it fits"
+      },
+      {
+        "icon": "cloud",
+        "label": "Infra that runs unattended and just works"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JavaScript"
+          },
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:go",
+            "label": "Go"
+          },
+          {
+            "icon": "terminal",
+            "label": "Bash"
+          }
+        ]
+      },
+      {
+        "title": "Networking",
+        "items": [
+          {
+            "icon": "bolt",
+            "label": "WireGuard"
+          },
+          {
+            "icon": "bolt",
+            "label": "Xray"
+          },
+          {
+            "icon": "bolt",
+            "label": "VLESS"
+          },
+          {
+            "icon": "bolt",
+            "label": "RAW / XHTTP / gRPC"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:telegram",
+            "label": "Telethon"
+          },
+          {
+            "icon": "brand:telegram",
+            "label": "GoyGram"
+          },
+          {
+            "icon": "bolt",
+            "label": "MTProto"
+          },
+          {
+            "icon": "bolt",
+            "label": "Bot API"
+          },
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "pinned",
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "MTWTFSS",
+    "languages": "Python · JavaScript · TypeScript · Go · Bash",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/I_execute"
+      },
+      {
+        "icon": "mail",
+        "url": "mailto:i_execute@icloud.com",
+        "label": "Email"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": false
+  }
+}
