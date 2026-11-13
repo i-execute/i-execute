@@ -14,6 +14,6 @@
 
 <a href="https://github.com/i-execute/OBHOD"><picture><source media="(prefers-color-scheme: dark)" srcset="storage/project-obhod-dark.svg"><img src="storage/project-obhod-light.svg" width="49%" alt="OBHOD"></picture></a>&nbsp;<a href="https://github.com/i-execute/Modules"><picture><source media="(prefers-color-scheme: dark)" srcset="storage/project-modules-dark.svg"><img src="storage/project-modules-light.svg" width="49%" alt="Modules"></picture></a>
 
-<a href="https://github.com/i-execute/Feroku"><picture><source media="(prefers-color-scheme: dark)" srcset="storage/project-feroku-dark.svg"><img src="storage/project-feroku-light.svg" width="49%" alt="Feroku"></picture></a>&nbsp;<a href="https://github.com/HotaruProject/Hotaru"><picture><source media="(prefers-color-scheme: dark)" srcset="storage/project-hotaru-dark.svg"><img src="storage/project-hotaru-light.svg" width="49%" alt="Hotaru"></picture></a>
+<a href="https://github.com/i-execute/Feroku"><picture><source media="(prefers-color-scheme: dark)" srcset="storage/project-feroku-dark.svg"><img src="storage/project-feroku-light.svg" width="49%" alt="Feroku"></picture></a>&nbsp;<a href="https://github.com/i-execute/MSE"><picture><source media="(prefers-color-scheme: dark)" srcset="storage/project-mse-dark.svg"><img src="storage/project-mse-light.svg" width="49%" alt="MSE"></picture></a>
 
 </div>
