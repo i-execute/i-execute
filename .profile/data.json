@@ -1,5 +1,5 @@
 {
- "key": "c66181f1",
+ "key": "48651093",
  "stars": 31,
  "contributions": 764,
  "repos": 17,
@@ -7,7 +7,7 @@
  "languages": [
   [
    "Python",
-   74520740
+   74521716
   ],
   [
    "TypeScript",
@@ -128,9 +128,13 @@
    {
     "c": 28,
     "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
     "today": true
    },
-   null,
    null,
    null
   ]
