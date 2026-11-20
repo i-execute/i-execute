@@ -1,13 +1,13 @@
 {
- "key": "5f6e028",
+ "key": "b167f302",
  "stars": 31,
- "contributions": 768,
+ "contributions": 769,
  "repos": 17,
  "followers": 10,
  "languages": [
   [
    "Python",
-   74524258
+   74541629
   ],
   [
    "TypeScript",
@@ -15,7 +15,7 @@
   ],
   [
    "JavaScript",
-   3118053
+   3125695
   ],
   [
    "TeX",
@@ -131,11 +131,15 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 5,
     "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
     "today": true
    },
-   null,
    null
   ]
  ],
