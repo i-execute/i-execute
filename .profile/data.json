@@ -1,7 +1,7 @@
 {
- "key": "495063a1",
+ "key": "ecb74991",
  "stars": 31,
- "contributions": 769,
+ "contributions": 781,
  "repos": 17,
  "followers": 10,
  "languages": [
@@ -12,6 +12,10 @@
   [
    "TypeScript",
    14130375
+  ],
+  [
+   "Go",
+   6794089
   ],
   [
    "JavaScript",
@@ -28,10 +32,6 @@
   [
    "BibTeX Style",
    156480
-  ],
-  [
-   "Rust",
-   154515
   ]
  ],
  "days": [
@@ -126,7 +126,7 @@
     "today": false
    },
    {
-    "c": 28,
+    "c": 38,
     "day": 19,
     "today": false
    },
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 2,
     "day": 21,
     "today": true
    },
@@ -144,8 +144,8 @@
   ]
  ],
  "streak": {
-  "current": 28,
-  "longest": 28
+  "current": 29,
+  "longest": 29
  },
  "pins": [
   {
